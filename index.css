@@ -72,7 +72,7 @@ h5{
 .message-content{
     color: #4b830a;
 }
-@media (max-width:676px){
+@media (max-width:600px){
     body,html{
         background-color: rgb(240, 178, 178);
         padding: 10px 20px;
