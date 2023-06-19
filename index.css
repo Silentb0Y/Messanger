@@ -79,11 +79,8 @@ h5{
         box-sizing: border-box;
     }
     .container{
-        width: 100%;
-        display: flex;
+        
         flex-direction: column;
-        align-items: center;
-        justify-content: center;
         
     }
     #submitBtn:hover{
